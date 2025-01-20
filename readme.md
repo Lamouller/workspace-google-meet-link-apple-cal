@@ -1,4 +1,4 @@
-# Add Google Meet to events created via Apple Calendar
+# Add Google Meet to events created via Apple Calendar for an entire Workspace
 
 Events created via Apple Calendar – using a Google Workspace or Gmail account - do not include Google Meet link for video conferences (apparently due to a [change in Google Calendar API](https://www.reddit.com/r/gsuite/comments/lnimfi/automatically_adding_google_meet_invite_to_apple/)).
 
