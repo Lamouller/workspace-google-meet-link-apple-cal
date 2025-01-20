@@ -9,5 +9,7 @@ How to:
 - Go to https://script.google.com/home
 - New Project
 - Add Calendar API & Admin SDK API under "Services" 
-- Copy/Paste code and run
+- Copy/Paste code
+- Change : const domain = '_your-domain.com_'; // Replace with your Google Workspace domain
+- and run code
 - Create a Trigger to programmatically run the script -> `From calendar` - `Calendar updated` [Doc](https://developers.google.com/apps-script/guides/triggers/installable#managing_triggers_manually)
